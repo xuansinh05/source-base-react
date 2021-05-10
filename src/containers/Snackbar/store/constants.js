@@ -1,0 +1,4 @@
+export const types = {
+  SHOW_SNACKBAR: "SHOW_SNACKBAR",
+  CLEAR_SNACKBAR: "CLEAR_SNACKBAR",
+};
